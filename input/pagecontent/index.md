@@ -5,7 +5,7 @@
 
 ### Source and Download
 
-[GitHub Repository](https://github.com/ahdis/ch-ig-lab-dr)
+[GitHub Repository](https://github.com/ahdis/ch-ig-lab-lr)
 
 **Download**: You can download this implementation guide in the [NPM package](https://confluence.hl7.org/display/FHIR/NPM+Package+Specification) format from [here](package.tgz).
 

@@ -1,5 +1,5 @@
 ValueSet: ChIgExample
-Id: ch-ig-lab-dr-example
+Id: ch-ig-lab-lr-example
 Title: "CH IG Example"
 Description: "CH IG Example value set is just an example!"
 * ^experimental = false
@@ -7,7 +7,7 @@ Description: "CH IG Example value set is just an example!"
 
 
 ValueSet: ChIgExampleSct
-Id: ch-ig-lab-dr-example-sct
+Id: ch-ig-lab-lr-example-sct
 Title: "CH IG Example SNOMED CT"
 Description: "CH IG Example SNOMED CT value set is just an other example!"
 * ^experimental = false
@@ -16,7 +16,7 @@ Description: "CH IG Example SNOMED CT value set is just an other example!"
 
 
 ValueSet: ChIgExampleTranslation
-Id: ch-ig-lab-dr-example-translation
+Id: ch-ig-lab-lr-example-translation
 Title: "CH IG Example Translation"
 Description: "CH IG Example Tranlation value set is just an example with translated values!"
 * ^experimental = false

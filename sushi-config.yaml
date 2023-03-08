@@ -3,11 +3,11 @@
 
 # Package name
 # https://confluence.hl7.org/display/FHIR/NPM+Package+Specification#NPMPackageSpecification-Packagename
-id: ch.fhir.ig.ch-ig-lab-dr
-canonical: http://fhir.ch/ig/ch-ig-lab-dr
-name: CH_IG
+id: ch.fhir.ig.ch-ig-lab-lr
+canonical: http://fhir.ch/ig/ch-ig-lab-lr
+name: CH_IG_LR
 title: "CH IG (R4)"
-description: Implementation Guide CH IG (R4) for ...
+description: Implementation Guide CH LAB-LR (R4) for ...
 status: draft
 license: CC-BY-SA-4.0
 copyright: CC-BY-SA-4.0
@@ -19,7 +19,7 @@ copyrightYear: 2023+
 # https://confluence.hl7.org/display/FHIR/Implementation+Guide+Parameters -> Parameter: releaselabel
 releaseLabel: CI Build 
 publisher:
-  name: HL7 Switzerland
+  name: Marcel Hanselmann
 contact:
   name: HL7 Switzerland
   telecom:
@@ -53,6 +53,6 @@ parameter:
   allow-extensible-warnings: true
 
 resources:
-  CodeSystem/ch-ig-lab-dr-example-translation:
+  CodeSystem/ch-ig-lab-lr-example-translation:
     name: CH IG Example Translation
     exampleBoolean: false

@@ -6,4 +6,4 @@ Alias:   $sct =                         http://snomed.info/sct
 Alias:   $SDChCorePractitioner =        http://fhir.ch/ig/ch-core/StructureDefinition/ch-core-practitioner
 
 // XML CH IG Code System
-Alias:  $CSChIgExampleTranslation =     http://fhir.ch/ig/ch-ig-lab-dr/CodeSystem/ch-ig-lab-dr-example-translation
+Alias:  $CSChIgExampleTranslation =     http://fhir.ch/ig/ch-ig-lab-lr/CodeSystem/ch-ig-lab-lr-example-translation
