@@ -16,6 +16,7 @@ Wer ist beteiligt? Es gilt der Grundsatz "Wer diagnostiziert, meldet". Demzufolg
 
 #### Meldepflichtige Laborbefunde
 
+[Meldepflichtige übertragbare Krankheiten und Erreger]<https://www.bag.admin.ch/dam/bag/de/dokumente/mt/msys/leitfaden-zur-meldepflicht-2023.pdf.download.pdf>
 Neuerungen bei den Labormeldungen:
 
 * Übermittlung der Statistiken ?
