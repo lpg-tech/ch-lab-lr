@@ -1,13 +1,13 @@
 <CodeSystem xmlns="http://hl7.org/fhir">
-    <id value="ch-ig-example-translation"/>
-    <url value="http://fhir.ch/ig/ch-ig/CodeSystem/ch-ig-example-translation" />
+    <id value="ch-ig-lab-dr-example-translation"/>
+    <url value="http://fhir.ch/ig/ch-ig-lab-dr/CodeSystem/ch-ig-lab-dr-example-translation" />
     <name value="ChIgExampleTranslation"/>
     <title value="CH IG Example Translation"/>
     <status value="active"/>
 	<experimental value="false"/>
     <description value="CH IG Example Translation code system is just an example with translated values!" />
     <caseSensitive value="true"/>
-    <valueSet value="http://fhir.ch/ig/ch-ig/ValueSet/ch-ig-example-translation"/>
+    <valueSet value="http://fhir.ch/ig/ch-ig-lab-dr/ValueSet/ch-ig-lab-dr-example-translation"/>
     <content value="complete"/>
     
     <concept>

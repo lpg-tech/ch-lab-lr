@@ -1,5 +1,5 @@
 CodeSystem: ChIgExample
-Id: ch-ig-example
+Id: ch-ig-lab-dr-example
 Title: "CH IG Example"
 Description: "CH IG Example code system is just an example!"
 * ^experimental = false

@@ -3,8 +3,8 @@
 
 # Package name
 # https://confluence.hl7.org/display/FHIR/NPM+Package+Specification#NPMPackageSpecification-Packagename
-id: ch.fhir.ig.ch-ig
-canonical: http://fhir.ch/ig/ch-ig
+id: ch.fhir.ig.ch-ig-lab-dr
+canonical: http://fhir.ch/ig/ch-ig-lab-dr
 name: CH_IG
 title: "CH IG (R4)"
 description: Implementation Guide CH IG (R4) for ...
@@ -15,7 +15,7 @@ jurisdiction: urn:iso:std:iso:3166#CHE
 date: 2022-11-22
 version: 0.1.0
 fhirVersion: 4.0.1
-copyrightYear: 2021+
+copyrightYear: 2023+
 # https://confluence.hl7.org/display/FHIR/Implementation+Guide+Parameters -> Parameter: releaselabel
 releaseLabel: CI Build 
 publisher:
@@ -53,6 +53,6 @@ parameter:
   allow-extensible-warnings: true
 
 resources:
-  CodeSystem/ch-ig-example-translation:
+  CodeSystem/ch-ig-lab-dr-example-translation:
     name: CH IG Example Translation
     exampleBoolean: false
