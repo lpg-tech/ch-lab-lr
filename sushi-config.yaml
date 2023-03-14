@@ -3,8 +3,8 @@
 
 # Package name
 # https://confluence.hl7.org/display/FHIR/NPM+Package+Specification#NPMPackageSpecification-Packagename
-id: ch.fhir.ig.ch-ig-lab-lr
-canonical: http://fhir.ch/ig/ch-ig-lab-lr
+id: ch.fhir.ig.ch-lab-lr
+canonical: http://fhir.ch/ig/ch-lab-lr
 name: CH_IG_LR
 title: "CH IG (R4)"
 description: Implementation Guide CH LAB-LR (R4) for ...
