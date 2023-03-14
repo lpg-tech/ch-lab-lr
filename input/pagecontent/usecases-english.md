@@ -6,3 +6,6 @@ filler Labor Pipette (Organization)
 
 placer (PractitionerRole)
 
+KlebsiellaKeller (Patient)
+
+MD Eva Erlenmeyer notes the presence of a positiv Ebola haemorragic fever PCR Test. She gets the notification form from the BAG, wich is populated with demografics of placer, filler and patient. 
